@@ -1,0 +1,1 @@
+SFML_Asteroids.exe 500 500 2 10
